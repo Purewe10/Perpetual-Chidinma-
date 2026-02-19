@@ -13,7 +13,7 @@ and communicating findings through clear, executive-level reports.
 - Tablaeu
 
 ## My Projects
-- [Sales performance dashboard] (.........)
+- [Sales performance dashboard] (https://github.com/Purewe10/Perpetual-Chidinma-Theresa)
 
 ## lets connect
 [linkedin](https://www.linkedin.com/in/perpetual-ifeanyi-0573b2)
